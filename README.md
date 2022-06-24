@@ -1,1 +1,1 @@
-1. Who am I
+a script that prints all the groups the current user is part of
